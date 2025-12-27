@@ -8,9 +8,8 @@ and translating technical insights into actionable business strategies.
 ---
 
 ## 📊 Dataset
-- Telco Customer Churn Dataset (Kaggle)
-- Contains customer demographics, services, billing details, and churn status
-- Target variable: `Churn` (Yes / No)
+- Dataset source: Kaggle – Telco Customer Churn Dataset  
+Note: Dataset files are not included in this repository.
 
 ---
 
