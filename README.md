@@ -81,17 +81,12 @@ Key factors influencing churn:
 
 ## 📁 Project Structure
 customer-churn-prediction/
-``` data/
-
-``` notebooks/
-
-``` images/
-
-``` models/
-
-``` README.md
-
-``` requirements.txt
+├── data/
+├── notebooks/
+├── images/
+├── models/
+├── README.md
+└── requirements.txt
 
 ---
 
