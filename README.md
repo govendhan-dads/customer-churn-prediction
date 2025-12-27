@@ -80,3 +80,17 @@ Key factors influencing churn:
 ---
 
 ## 📁 Project Structure
+customer-churn-prediction/
+├── data/
+├── notebooks/
+├── images/
+├── models/
+├── README.md
+└── requirements.txt
+
+---
+
+## ✅ Conclusion
+This project demonstrates a complete data science workflow,
+from data exploration and preprocessing to model building and
+business insight generation.
